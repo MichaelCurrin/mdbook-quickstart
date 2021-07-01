@@ -12,7 +12,7 @@ on:
       - "docs/**"
 
 jobs:
-  build:
+  build-deploy:
     runs-on: ubuntu-latest
 
     steps:
