@@ -16,12 +16,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-
-      - name: Set up Rust
-        uses: rust-lang/simpleinfra/github-actions/simple-ci@master
-        with:
-          check_fmt: true
+      - name: Checkout 🛎
+        uses: actions/checkout@v2
 
       - name: Install dependencies 🔧
         run: make install
