@@ -1,0 +1,6 @@
+[book]
+authors = ["Michael Currin"]
+language = "en"
+multilingual = false
+src = "src"
+title = "mdBook Quickstart"
