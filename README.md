@@ -3,7 +3,7 @@
 
 <!-- Badges generated with https://michaelcurrin.github.io/badge-generator/ -->
 
-[![Rust CI](https://github.com/MichaelCurrin/mdbook-quickstart/workflows/Rust%20CI/badge.svg)](https://github.com/MichaelCurrin/mdbook-quickstart/actions?query=workflow%3A%22Rust+CI%22)
+[![Rust CI](https://github.com/MichaelCurrin/mdbook-quickstart/workflows/Rust%20CI/badge.svg)](https://github.com/MichaelCurrin/mdbook-quickstart/actions/workflows/main.yml?query=workflow:"Rust+CI")
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/mdbook-quickstart?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/mdbook-quickstart/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
@@ -15,7 +15,7 @@
 
 <div align="center">
     <a href="https://michaelcurrin.github.io/mdbook-quickstart/">
-        <img src="/sample.png" alt="Sample screenshot" title="Sample screenshot" width="350" />
+        <img src="/sample.png" alt="Sample screenshot" title="Sample screenshot" width="500" />
     </a>
 </div>
 
@@ -23,7 +23,7 @@
 
 [![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/mdbook-quickstart/generate)
 
-[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://michaelcurrin.github.io/mdbook-quickstart/)
+[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-blue?style=for-the-badge)](https://michaelcurrin.github.io/mdbook-quickstart/)
 
 </div>
 
