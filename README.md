@@ -27,14 +27,12 @@
 
 ## Resources
 
-This is built with mdBook:
-
-- https://github.com/rust-lang/mdBook
-    > Create book from markdown files. Like Gitbook but implemented in Rust
-- https://rust-lang.github.io/mdbook/
+Learn more about [mdBook](https://michaelcurrin.github.io/dev-resources/resources/rust/packages/mdbook.html), a Rust tool that turns
 
 
 ## Sample usage
+
+Start a dev server:
 
 ```sh
 $ mdbook serve
