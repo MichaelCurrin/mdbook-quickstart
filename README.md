@@ -33,6 +33,13 @@
 Learn more about [mdBook](https://michaelcurrin.github.io/dev-resources/resources/rust/packages/mdbook.html), a Rust tool that turns
 
 
+## Structure
+
+- [src/](/src/) - your book's Markdown content.
+- [book.toml](/book.toml) - config.
+- `books/` - output directory.
+
+
 ## Sample usage
 
 Start a dev server:
