@@ -22,13 +22,16 @@ jobs:
         uses: rust-lang/simpleinfra/github-actions/simple-ci@master
         with:
           check_fmt: true
-          # - name: Install dependencies
-      #   run: make install
-      # - name: Check formatting
-      #   run: make fmt-check
-      # - name: Lint
-      #   run: make lint
-      # - name: Run unit tests
-      #   run: make test
-      # - name: Build
-      #   run: make build
+
+      - name: Install dependencies 🔧
+        run: make install
+
+      - name: Build 🏗️
+        run: make build
+
+      - name: Deploy to GitHub Pages 🚀
+        if: ${{ github.event_name != 'pull_request' }}
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: book
