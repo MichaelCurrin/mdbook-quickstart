@@ -47,7 +47,7 @@ Learn more about [mdBook](https://michaelcurrin.github.io/dev-resources/resource
 Start a dev server:
 
 ```sh
-$ mdbook serve
+$ make serve
 ```
 
 
