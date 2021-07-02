@@ -35,10 +35,10 @@ Learn more about [mdBook](https://michaelcurrin.github.io/dev-resources/resource
 
 ## Structure
 
-- [src/](/src/)
+- [src/](/src/) directory
     - [SUMMARY.md](/src/SUMMARY.md) sidebar contents page. See [SUMMARY.md](https://raw.githubusercontent.com/rust-lang/mdBook/master/guide/src/SUMMARY.md) of mdBook's own site for an example.
     -  Markdown files as your book's content.
-- [book.toml](/book.toml) - config.
+- [book.toml](/book.toml) - mdBook's config.
 - `books/` - output directory.
 
 
