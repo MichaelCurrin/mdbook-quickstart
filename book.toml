@@ -4,3 +4,5 @@ language = "en"
 multilingual = false
 src = "src"
 title = "mdBook Quickstart"
+description = "Demo site for mdBook Quickstart repo"
+language = "en"
