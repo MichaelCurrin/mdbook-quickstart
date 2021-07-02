@@ -6,7 +6,3 @@
 - [Installation](installation.md)
 - [Usage](usage.md)
 - [Deploy](deploy.md)
-
-View source:
-
-[![MichaelCurrin - mdbook-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=mdbook-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/mdbook-quickstart)
