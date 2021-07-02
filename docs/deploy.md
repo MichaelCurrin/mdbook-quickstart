@@ -9,7 +9,7 @@ Build your application and generate production-ready output in the ignored `book
 $ make build
 ```
 
-Run that locally to check the app builds correctly. That is also in the CI/CD flow, covered below.
+That is useful to run locally to check the app builds correctly.
 
 
 ## CI/CD
