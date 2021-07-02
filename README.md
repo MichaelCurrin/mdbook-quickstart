@@ -10,6 +10,9 @@
 [![Made with Rust](https://img.shields.io/badge/Rust-1-blue?logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![dependency - mdbook](https://img.shields.io/badge/dependency-mdbook-blue)](https://rust-lang.github.io/mdBook/)
 
+[![Hosted with GH Pages](https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?logo=github&logoColor=white)](https://pages.github.com/)
+[![Made with GH Actions](https://img.shields.io/badge/CI-GitHub_Actions-blue?logo=github-actions&logoColor=white)](https://github.com/features/actions)
+
 
 ## Preview
 
